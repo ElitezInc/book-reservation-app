@@ -1,0 +1,23 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Font-Awesome
+@import "~@fortawesome/fontawesome-free/scss/fontawesome";
+@import "~@fortawesome/fontawesome-free/scss/regular";
+@import "~@fortawesome/fontawesome-free/scss/solid";
+@import "~@fortawesome/fontawesome-free/scss/brands";
+
+// Flag icons
+@import "flag-icons/sass/flag-icons";
+
+// Bootstrap
+@import "bootstrap-dark-5/dist/css/bootstrap-nightshade";
+
+// Datatable
+@import "resources/css/dataTables.bootstrap5.min";
+
+// Custom imports
+@import 'partials/dashboard';
